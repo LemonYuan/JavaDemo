@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Curiculums>
+   <cur>
+      <name>math</name>
+      <teacher>kay</teacher>
+   </cur>
+   <cur>
+      <name>chiness</name>
+      <teacher>borne</teacher>
+   </cur>
+   <cur>
+      <name>english</name>
+      <teacher>john</teacher>
+   </cur>
+   <cur>
+      <name>c++</name>
+      <teacher>sam</teacher>
+   </cur>
+</Curiculums>
